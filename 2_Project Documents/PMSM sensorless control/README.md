@@ -75,9 +75,9 @@ Low Level Requirements
  ## Equations 
  
 # INVERTER
-Van=Vdc/3(2Vao-Vbo-Vco)
-Vbn=Vdc/3(2Vbo-Vco-Vao)
-Vcn=Vdc/3(2Vco-Vao-Vbo)
+* Van=Vdc/3(2Vao-Vbo-Vco)
+* Vbn=Vdc/3(2Vbo-Vco-Vao)
+* Vcn=Vdc/3(2Vco-Vao-Vbo)
 
  
  
