@@ -47,8 +47,18 @@ Motor parameters with the parameters:
 * Rated armature current = 16 
 * A Rated speed = 1750
 * vrpm Ra = 0.24 Ω, La = 18 mH, Kaφ = 0.6699, J = 0.5 kgm2, Tl = 0.01 + 3.189× 10−4 × ω2 m. 
-* Obtain the speed
-and torque waveforms.
+
+* Obtain the speed and torque waveforms.
+
+Version 1 dc motor
+
+* Version 1 is modelled using basic dc motor which is in website of the paramters given by them
+# Dc motor 
+![dc motor basic version1](https://user-images.githubusercontent.com/89115879/160168952-3e6ccfa3-8923-4da0-9d21-db5642e508b1.PNG)
+# Dc motor basic subsystem
+![dc motor subsystem](https://user-images.githubusercontent.com/89115879/160169092-9d853192-7e63-4b0b-82e2-3a2f03836121.PNG)
+# waveform
+![waveform](https://user-images.githubusercontent.com/89115879/160169131-d4200eb9-6a46-455d-9a68-2a2a29dfc0c6.PNG)
 
 # Reference for the model
  
