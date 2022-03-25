@@ -21,14 +21,14 @@ Low Level Requirements
 
 ## Transmission from a,b,c(stationary) to d-q(rotational)axis
 
-High Level requirements
+High Level Requirements
 |ID|Description|
 |-----|------|
 |HLR_1|to move from stationary axis to rotational axis|
 |HLR_2|come up with equations required to build the model and building the equations model in simulink|
 
 
-Low Level requirements
+Low Level Requirements
 |ID|Description|
 |-----|-----|
 |LLR_1.1|to make use of clark transform to move from abc axis to alpha and bheta axis|
