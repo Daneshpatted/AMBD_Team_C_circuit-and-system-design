@@ -1,6 +1,6 @@
 High Level requirements
-
 |ID|Description|
+|-----|------|
 |HLR_1|to move from stationary axis to rotational axis|
 |HLR_2|come up with equations required to build the model and building the equations model in simulink|
 
