@@ -20,6 +20,18 @@ Design the dc motor model with equations and control the speed and torque of the
 
 ![swotanalysis](https://user-images.githubusercontent.com/89115879/160097410-1357c70b-a3b8-4579-b692-ef1964fbe303.PNG)
 
+## 4 w & 1H
+# What
+* To design a dc motor model 
+# Why
+* to control speed and torque by varying it's voltage.
+# How
+* To solve the mathematical equation and model according to equation.
+# When
+* It is used in the application whenever any dc motor controlled items required to control its speed torque
+# where
+* In automobile and machinery which need dc motor 
+
 
 # Reference for the model
  
