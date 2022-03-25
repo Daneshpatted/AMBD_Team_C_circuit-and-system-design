@@ -9,6 +9,12 @@ to engineers and scientists. In some simulation applications, nonlinear of the p
 
 Controlling strategies of the three-phase voltage-source inverter (VSI) are divided into two; 
 voltage control and current control. The voltage controlled VSI uses the phase angle between the inverter’s output voltage and the grid voltage to control the flow of the power. Current controlled VSI uses the active and reactive components of the injected current into the grid and use the pulse width modulation (PWM) techniques to control them. Voltage controllers are more sensitive to the small phase errors but if the grid voltage is distorted large harmonic currents may appear. Current controllers have faster response and less sensitivity to the distortion in the grid voltage.
+
+## Objectives
+  *  To review model of an ideal  three-phase voltage source inverter.
+  *  To propose model of three-phase voltage source inverter including the pole voltage,phase Voltage,phase Current.
+  *  To verify the effectiveness of the proposed work by applications for RL load.
+
   
 ## Working of 3 ph VSI
 
@@ -19,9 +25,11 @@ voltage control and current control. The voltage controlled VSI uses the phase a
   * The frequency of the inverter is varied by varying T, and the output voltage of the inverter is varied by varying DC input voltage.When the supply is DC, then the     variable DC input is obtained by connecting a chopper between DC supply and inverter.
   * When the supply is AC, then the DC input voltage is obtained by connecting the controlled rectifier between the AC supply and inverter shown in the figure             below.The capacitor C filter out the harmonics in DC link voltage.  
   
-## Research
+## Resources 
+
   IEEE papers
 ##  5W's And 1H
+
   What  
   Where  
   When   
@@ -29,15 +37,23 @@ voltage control and current control. The voltage controlled VSI uses the phase a
   why   
   How   
 ## SWOT Analysis
+
   Strength    
   Weakness   
   Opportunities   
   Threats  
+  
 ## Requirements 
+
    HLR 
    
    LLR
    
 ## Applications  
-
+1. Power conversion circuit can simplified into output and input variables
+2. Converter topologies can be derived easily by transfer function approach
+3. The strategy to implement gating pulses will become much simpler
+4. Various parameters like current and voltage, load current can be calculated easily
+5. For a power conversion circuits there is no need of forming real power electronic models and state
+equations
 
