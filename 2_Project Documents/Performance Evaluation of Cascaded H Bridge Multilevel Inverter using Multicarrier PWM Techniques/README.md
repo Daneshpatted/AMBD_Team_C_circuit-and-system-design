@@ -31,3 +31,6 @@ Various multicarrier pulse width modulation (PWM) techniques suitable for high p
 | LLR1        | The pwm techniques such as PD,POD and APOD are to control the inverter output  | Implemented |
 | LLR2        | As we increase the level of the inverter the value of the THD decreases  | Implemented |
 | LLR3       | When motor connected as step load and constant load the motor torque,speed and torque ripple will varies  | Implemented |
+
+# Swot Analysis
+![swot](https://user-images.githubusercontent.com/98802184/160176719-cbbf9f5d-830e-4e89-a219-7e74a085f881.PNG)
