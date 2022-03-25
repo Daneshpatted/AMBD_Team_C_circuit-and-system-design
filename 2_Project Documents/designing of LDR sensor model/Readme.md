@@ -26,3 +26,17 @@
 * to give TTL input
 * to calculate the difference between the panel angle and the assumed sun position
 * to limit the panel angles to +-90 degrees
+# 4W's and 1H
+## What
+* to design a LDR sensor Model
+## WHY
+* To convert the output voltage across the resistor into digital signal and send it to the microcontroller
+## When
+* when the panel reaches 90 degrees
+* when the intensity of the light changes
+# Where
+* used in smart tracker photo-voltaic (PV) Model
+# How
+* the LDR sensor contains a variable resistor whose resistance and the voltage changes according to the intensity of sunlight. the output voltage is converted into digital signal and sent as the input to the microcontroller
+# SWOT Analysis
+* 
