@@ -11,3 +11,18 @@
 * in the LDR sensor the difference between the panel angle and the assumed sun position is calculated. 
 * The angles are limited to +-90 degrees
 * when 90 degree is reached the LDR sensor outputs a zero irradiance that corresponds to a certain voltage 
+# Objectives
+* To design a LDR sensor Model
+* to make the LDR sensor compatible with other sensors
+* to check whether the LDR sensor outputs the correct voltages when the panel angle reaches 90 degree
+* to make the servo motor rotate clockwise(cw) or anticlockwise(ccw).
+# Requirements 
+## High Level Requirements
+* HLR1_1 to have a variable resistor that changes the intensity of incident ray illuminated on to it.
+* HLR1_2 to convert the output voltage across the resistor into digital signal 
+* To Rotate the motor clockwise or anticlockwise
+* to have the LDR sensor output a zero irradiance that corresponds to a certain voltage when panel reaches 90 degrees
+## Low Level Requirements
+* to give TTL input
+* to calculate the difference between the panel angle and the assumed sun position
+* to limit the panel angles to +-90 degrees
