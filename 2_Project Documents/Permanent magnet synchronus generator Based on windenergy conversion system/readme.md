@@ -15,9 +15,13 @@ Main objective of this thesis is to design a suitable permanent magnet synchrono
 # Benifits:
 
 1)reliability
+
 2)compact size
+
 3)loss reduction
+
 4)higher power density 
+
 5)finally optimal efficiency
 
 # 4W'S & 1H:
