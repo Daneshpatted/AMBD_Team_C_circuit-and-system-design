@@ -29,6 +29,20 @@
 
 ![sandhya](https://user-images.githubusercontent.com/99087988/160098631-656fae52-7c5e-48d0-a5e2-ec5ab1579c7b.png)
 
+# 4W"S AND 1H
+# WHAT
+  It is used to converts the some other energy into electrical energy
+# WHEN
+  It is used when overcharging and discharging
+# WHERE
+  Applied in all the electrical equipments
+# WHY
+  To prevents the power from over charging and over discharging
+# HOW
+  It will shows the charging power
+
+  
+
    
   
 
