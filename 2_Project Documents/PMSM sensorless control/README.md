@@ -79,7 +79,15 @@ Low Level Requirements
 * Vbn=Vdc/3(2Vbo-Vco-Vao)
 * Vcn=Vdc/3(2Vco-Vao-Vbo)
 
- 
+# CLARK AND PARK TRANSFORMATION
+![Clark and park transform](https://user-images.githubusercontent.com/98873064/160111518-3b7fbe1b-1bcc-4ef4-8d00-5e8cb0dbeaf9.png)
+
+
+
+
+ #  MOTOR MODELLING
+ ![image](https://user-images.githubusercontent.com/98873064/160110148-a39cbb56-cc90-4d20-af6c-c23e220b5ac1.png)
+
  
  
  
