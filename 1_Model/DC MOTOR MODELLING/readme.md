@@ -71,7 +71,7 @@ Version 1 dc motor
 # Subsystem of dcmotor
 ![dc motor22](https://user-images.githubusercontent.com/89115879/160173430-002ff4bc-5122-4725-82e7-1a84829d0de2.PNG)
 
-#Graph for speed and torque
+# Graph for speed and torque
 ![speed](https://user-images.githubusercontent.com/89115879/160173901-77618374-1fcc-4904-a790-751a0e4254c6.PNG)
 ![torque graph](https://user-images.githubusercontent.com/89115879/160173589-cd500d4f-674e-47c8-8d06-5f700eddcbfd.PNG)
 # Reference for the model
