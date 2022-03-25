@@ -2,3 +2,5 @@
 # " Designing of LDR Sensor model"
 ## Description
 * The LDR sensor is a variable resistor that changes the resistance according to the intensity of incident ray illuminated onto it. as the intensity of sunlight changes, the resistance and the voltage ofLDR sensors change . THe Output voltage across the resistor is converted into digital signal input of the microcontroller. based on the TTL input the servo motor rotates clockwise or anticlockwise. in the LDR sensor model the differnce between panel angle and the assumed sun position was calculated. the angles were limited to +-90 degree when 90 degree is reached the LDR sensor outputas a zero irradiance that corresponds to a certain volatage .
+# Resource
+* IEEE papers
