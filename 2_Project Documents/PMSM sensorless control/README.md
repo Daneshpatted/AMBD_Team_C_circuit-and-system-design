@@ -33,8 +33,8 @@ Low Level Requirements
 |-----|-----|
 |LLR_1.1|to make use of clark transform to move from abc axis to alpha and bheta axis|
 |LLR_1.2|to make use of park transform to move from alpha and bheta axis to d-q axis|
-|LLR_2.1||
-|LLR_2.2||
+|LLR_2.1|makeing blocks use of basics blocks available to implement it|
+|LLR_2.2|analysing the output from the block|
 
 
 
