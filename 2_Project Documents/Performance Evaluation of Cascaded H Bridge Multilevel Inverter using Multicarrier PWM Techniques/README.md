@@ -10,6 +10,24 @@ Various multicarrier pulse width modulation (PWM) techniques suitable for high p
 - PWM is commonly used in applications like motor speed control, converters audio amplifiers etc. And also PWM is used to adjust voltage applied to the motor.
 - There is no single PWM method which can suite for all applications. As per the advanced technology in solid state power electronic devices and microprocessors, various pulse width modulation techniques have been developed for different industrial application.
 
+# Objectives
+- To control the inverter output voltage by using PWM technique.
+- To reduce the harmonics content in the output voltage by using different PWM techniques. 
+- Analyze the THD in multilevel inverters using multicarrier PWM technique, through MATLAB simulations. 
+- Analysis of Inverter fed PMSM motor (motor torque, speed and torque ripple).
+- THD analysis of inverter fed PMSM motor. 
 
 
+# High Level Requirments
+| Id          |  High Level Requirements  |    status  |
+| :--        | :--          |   :--     |
+| HLR1        | The model should control the inverter output voltage by using PWM technique   | Implemented |
+| HLR2        | The model should reduce the harmonics content in the output voltage |  Implemented|
+| HLR3        | The model should give the analysis of H bridge cascaded multilevel inverter fed induction motor (motor torque, speed and torque ripple) | Implemented |
 
+# Low Level Requirements
+| Id          |  Low Level Requirements  |    status  |
+| :--        | :--          |   :--     |
+| LLR1        | The pwm techniques such as PD,POD and APOD are to control the inverter output  | Implemented |
+| LLR2        | As we increase the level of the inverter the value of the THD decreases  | Implemented |
+| LLR3       | When motor connected as step load and constant load the motor torque,speed and torque ripple will varies  | Implemented |
