@@ -35,15 +35,19 @@ Design the dc motor model with equations and control the speed and torque of the
 # Observation
 Here we use few formulas to calculate speed and torque.
 # Fomula
-Va = Raia + La +Kaфꙍ
-Kaфia = J + Bꙍ +T1
-Using these formulas, we get Torque and speed values which is later compared with the MATLAB simulation graph.
+* Va = Raia + La +Kaфꙍ
+* Kaфia = J + Bꙍ +T1
+* Using these formulas, we get Torque and speed values which is later compared with the MATLAB simulation graph.
 Later we take a graph to see how the current is varying with the change in torque. 
 
 # Motor parameter
-Motor parameters with the parameters: Rated power = 2 kW Rated
-armature voltage = 125 V Rated armature current = 16 A Rated speed = 1750
-rpm Ra = 0.24 Ω, La = 18 mH, Kaφ = 0.6699, J = 0.5 kgm2, Tl = 0.01 + 3.189× 10−4 × ω2 m. Obtain the speed
+Motor parameters with the parameters: 
+* Rated power = 2 kW Rated
+* armature voltage = 125 V 
+* Rated armature current = 16 
+* A Rated speed = 1750
+* vrpm Ra = 0.24 Ω, La = 18 mH, Kaφ = 0.6699, J = 0.5 kgm2, Tl = 0.01 + 3.189× 10−4 × ω2 m. 
+* Obtain the speed
 and torque waveforms.
 
 # Reference for the model
