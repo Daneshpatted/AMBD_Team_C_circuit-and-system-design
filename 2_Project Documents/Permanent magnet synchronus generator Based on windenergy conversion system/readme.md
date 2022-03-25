@@ -53,21 +53,21 @@ This stator magnetic field or "stator field" appears as a steady rotating field 
 
 | RID | DESCRIPTION | STATUS |
 |:--:|:--------:|:----:|
-|HLR1|||
-|HLR2|||
-|HLR3|||
-|HLR4|||
-|HLR5|||
+|HLR1|wind turbine|implimented|
+|HLR2| generator|implimented|
+|HLR3| interconnection apparatus|implimented|
+|HLR4|control systems|implimented|
+
 
 # Low level Requirements:
 
 | RID | DESCRIPTION | STATUS |
 |:--:|:--------:|:----:|
-|LLR1|||
-|LLR2|||
-|LLR3|||
-|LLR4|||
-|LLR5|||
+|LLR1|voltage|implimented|
+|LLR2|current|implimented|
+|LLR3|wind speed|implimented|
+|LLR4|volatage across dc load|implimented|
+
 
 
 
