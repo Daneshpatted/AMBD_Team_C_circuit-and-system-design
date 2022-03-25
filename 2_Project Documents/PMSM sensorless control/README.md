@@ -41,7 +41,7 @@ Low Level Requirements
 ## Calaculation of speed ,theta,current parameters by modelling
 
 
-High Level requirements
+High Level Requirements
 
 |Id|Description|
 |--|------------|
@@ -50,7 +50,7 @@ High Level requirements
 
 
 
-Low Level requirements
+Low Level Requirements
 |Id|Description|
 |--|------------|
 |LLR1.1 |To understand the equivalent circuit diagram using basic components|
