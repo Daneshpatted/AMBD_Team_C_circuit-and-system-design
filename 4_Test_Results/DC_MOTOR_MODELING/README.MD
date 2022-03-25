@@ -23,6 +23,3 @@ Version 1 dc motor
 # Graph for speed and torque
 ![speed](https://user-images.githubusercontent.com/89115879/160173901-77618374-1fcc-4904-a790-751a0e4254c6.PNG)
 ![torque graph](https://user-images.githubusercontent.com/89115879/160173589-cd500d4f-674e-47c8-8d06-5f700eddcbfd.PNG)
-# Reference for the model
- 
-simulinkmodelonine.slx is modelled by referring https://ctms.engin.umich.edu/CTMS/index.php?example=MotorSpeed&section=SimulinkModeling
