@@ -1,3 +1,4 @@
+# PMSM Sensorless control
 # Requirements
 
 ## Three phase inverter modelling
@@ -57,3 +58,8 @@ Low Level Requirements
 |LLR1.2  |    To come up with equivalent circuit equations using electrical laws|
 |LLR2.1|To find various parameters like speed ,torque,current and thereby estimate the position of the rotor.|
  |LLR2.2 |   To model all these parameters in simulink further verify the results.|
+ 
+ ---------------------------------------------
+ 
+ 
+ 
