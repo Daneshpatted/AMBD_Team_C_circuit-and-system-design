@@ -63,3 +63,12 @@ Low Level Requirements
  
  
  
+ # SWOT ANALYSIS
+ 
+ 
+ 
+ 
+ ![swot analysis](https://user-images.githubusercontent.com/98873064/160092790-21e30054-5b4f-4a95-933a-0bfe2969398e.png)
+
+ 
+ 
