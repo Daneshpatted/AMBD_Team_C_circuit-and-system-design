@@ -18,21 +18,22 @@ Low Level requirements
 
 
 
+## Calaculation of speed ,theta,current parameters by modelling
 
 
-|HLR1 |  To come up with equivalent circuit equations of motor|
-|LLR1   To understand the equivalent circuit diagram using basic components|
+High Level requirements
 
-
-|LLR2  |    To come up with equivalent circuit equations using electrical laws|
-
-
-
-
+|Id|Description|
+|--|------------|
+|HLR1 |To come up with equivalent circuit equations of motor|
 |HLR2 |   To model the motor using various equations obtained from circuit diagram|
 
 
 
-|LLR1   |To find various parameters like speed ,torque,current and thereby estimate the position of the rotor.|
-
- |LLR2 |   To model all these parameters in simulink further verify the results.|
+Low Level requirements
+|Id|Description|
+|--|------------|
+|LLR1.1 |To understand the equivalent circuit diagram using basic components|
+|LLR1.2  |    To come up with equivalent circuit equations using electrical laws|
+|LLR2.1|To find various parameters like speed ,torque,current and thereby estimate the position of the rotor.|
+ |LLR2.2 |   To model all these parameters in simulink further verify the results.|
