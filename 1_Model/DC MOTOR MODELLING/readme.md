@@ -34,7 +34,7 @@ Design the dc motor model with equations and control the speed and torque of the
 
 # Observation
 Here we use few formulas to calculate speed and torque.
-# Fomula
+# Formula
 * Va = Raia + La +Kaфꙍ
 * Kaфia = J + Bꙍ +T1
 * Using these formulas, we get Torque and speed values which is later compared with the MATLAB simulation graph.
