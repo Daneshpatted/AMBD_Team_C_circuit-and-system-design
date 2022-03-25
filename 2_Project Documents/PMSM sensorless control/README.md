@@ -1,5 +1,23 @@
 # Requirements
 
+## Three phase inverter modelling
+
+High Level Requirements
+| ID | Description |
+|----|-------------|
+|HLR_1|To convert direct dc voltage to three phase ac voltage|
+|HLR_2|To come up with the simulink model and thereby verify the result |
+
+Low Level Requirements 
+| ID | Description |
+|----|-------------|
+|LLR_1.1|To come up with the required circuit diagram|
+|LLR_1.2|To analyse the circuit and writeup thr required equations|
+|LLR_2.1|Various simulink blocks are to be used and thereby modelling is done according to the equation|
+
+
+
+
 
 ## Transmission from a,b,c(stationary) to d-q(rotational)axis
 
