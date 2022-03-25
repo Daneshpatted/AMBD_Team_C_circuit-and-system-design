@@ -1,3 +1,6 @@
+# Requirements
+
+
 ## Transmission from a,b,c(stationary) to d-q(rotational)axis
 
 High Level requirements
@@ -15,3 +18,21 @@ Low Level requirements
 
 
 
+
+
+|HLR1 |  To come up with equivalent circuit equations of motor|
+|LLR1   To understand the equivalent circuit diagram using basic components|
+
+
+|LLR2  |    To come up with equivalent circuit equations using electrical laws|
+
+
+
+
+|HLR2 |   To model the motor using various equations obtained from circuit diagram|
+
+
+
+|LLR1   |To find various parameters like speed ,torque,current and thereby estimate the position of the rotor.|
+
+ |LLR2 |   To model all these parameters in simulink further verify the results.|
