@@ -68,7 +68,8 @@ Low Level Requirements
  
  
  
- ![swot analysis](https://user-images.githubusercontent.com/98873064/160092790-21e30054-5b4f-4a95-933a-0bfe2969398e.png)
+ ![swot analysis](https://user-images.githubusercontent.com/98873064/160094517-04328b0e-fade-42ab-83be-143130addfd8.png)
+
 
  
  
