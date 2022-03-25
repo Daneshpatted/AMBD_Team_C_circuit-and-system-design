@@ -24,6 +24,11 @@
 |LLR03|Ideal switch|used for charging and discharging|
 |LLR04|Bus|The bus selector block output the elements u select from the input bus|
 |LLR05|NOT Gate|used to check the conditions|
+
+## SWOT ANALYSIS
+
+![sandhya](https://user-images.githubusercontent.com/99087988/160098631-656fae52-7c5e-48d0-a5e2-ec5ab1579c7b.png)
+
    
   
 
