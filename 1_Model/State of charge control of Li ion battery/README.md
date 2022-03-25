@@ -22,8 +22,8 @@
 |LLR01|DC Voltage source|Converts the electrical energy|
 |LLR02|Battery|prevents current and voltage from over charging and discharging|
 |LLR03|Ideal switch|used for charging and discharging|
-|LLR04|Bus||
-|LLR05|NOT Gate||
+|LLR04|Bus|The bus selector block output the elements u select from the input bus|
+|LLR05|NOT Gate|used to check the conditions|
    
   
 
