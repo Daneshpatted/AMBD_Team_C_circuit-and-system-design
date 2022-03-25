@@ -15,6 +15,15 @@
 |HLR03|It shall have a ideal switch|
 |HLR04|It shall have a bus|
 |HLR05|It shall have a NOT gate|
+
+## LOWER LEVEL REQUIREMENTS
+|LLR_ID|COMONENTS|DESCRITION|
+|--|--|--|
+|LLR01|DC Voltage source|Converts the electrical energy|
+|LLR02|Battery|prevents current and voltage from over charging and discharging|
+|LLR03|Ideal switch|used for charging and discharging|
+|LLR04|Bus||
+|LLR05|NOT Gate||
    
   
 
