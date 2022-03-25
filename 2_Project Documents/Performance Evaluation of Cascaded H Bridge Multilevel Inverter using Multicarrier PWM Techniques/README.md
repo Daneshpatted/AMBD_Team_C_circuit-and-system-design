@@ -34,3 +34,6 @@ Various multicarrier pulse width modulation (PWM) techniques suitable for high p
 
 # Swot Analysis
 ![swot](https://user-images.githubusercontent.com/98802184/160176719-cbbf9f5d-830e-4e89-a219-7e74a085f881.PNG)
+
+# 4W's and 1H
+![4w 1h](https://user-images.githubusercontent.com/98802184/160179378-4f8021bd-d447-4104-a84a-00366398ad8c.PNG)
