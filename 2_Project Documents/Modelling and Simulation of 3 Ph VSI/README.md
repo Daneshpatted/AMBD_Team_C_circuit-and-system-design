@@ -44,16 +44,23 @@ voltage control and current control. The voltage controlled VSI uses the phase a
   Threats  
   
 ## Requirements 
+ ##  High Level Requirements 
+ 1. The model shuld give the pole Voltages from the switching functions .
+ 2. The model should give the Phase voltage from Pole voltages using different functions.
+ 3. Getting the Three phase voltages and line voltages from the phase voltage and given function.
+ 4. Getting the three phase current by feeding RL lode with an output frequency of 50 HZ.
+ 5. Building the model  by using the equations.
+   
+ ##  Low Level Requirements
+ 1. Getting Switching functions for the inputs of different frequncy and Aplitudes.
+ 2. finding the Dc link current from the Switching functions.
 
-   HLR 
-   
-   LLR
-   
+
 ## Applications  
-1. Power conversion circuit can simplified into output and input variables
-2. Converter topologies can be derived easily by transfer function approach
-3. The strategy to implement gating pulses will become much simpler
+
+1. Power conversion circuit can simplified into output and input variables.
+2. Converter topologies can be derived easily by transfer function approach.
+3. The strategy to implement gating pulses will become much simpler.
 4. Various parameters like current and voltage, load current can be calculated easily
-5. For a power conversion circuits there is no need of forming real power electronic models and state
-equations
+5. For a power conversion circuits there is no need of forming real power electronic models and state equations.
 
