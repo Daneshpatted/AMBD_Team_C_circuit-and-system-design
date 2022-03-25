@@ -8,5 +8,5 @@
 * The LDR sensor has a variable resistor that changes according to the intensity of incident ray illuminated onto it. as the intensity of sunlight changes,the resistance and the volatage of LDR sensor changes .
 * the output voltage across the resistor is converted into digital signal at the input of the microcontroller .
 * based on the TTL input, the servo motor rotates clockwise or anticlockwise  .
-* in the LDR sensor the difference between the panel angle and the assumed sun position is calculated. t
+* in the LDR sensor the difference between the panel angle and the assumed sun position is calculated. 
 * when 90 degree is reached the LDR sensor outputs a zero irradiance that corresponds to a certain voltage 
