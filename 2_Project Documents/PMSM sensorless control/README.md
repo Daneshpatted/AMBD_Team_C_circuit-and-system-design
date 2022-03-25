@@ -6,7 +6,10 @@ High Level requirements
 
 
 Low Level requirements
-1) to make use of clark transform to move from abc axis to alpha and bheta axis.
-2)to make use of park transform to move from alpha and bheta axis to d-q axis.
+|ID|Description|
+|-----|-----|
+|LLR_1.1|to make use of clark transform to move from abc axis to alpha and bheta axis|
+|LLR_1.2|to make use of park transform to move from alpha and bheta axis to d-q axis|
+
 
 
