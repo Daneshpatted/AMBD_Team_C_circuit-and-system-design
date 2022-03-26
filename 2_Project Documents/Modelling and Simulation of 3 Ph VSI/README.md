@@ -71,9 +71,9 @@ voltage control and current control. The voltage controlled VSI uses the phase a
    * It performs the inverse operation of ac to dc converter.
    * Uninterruptable power supply & AC speed drivers.
    * These inverters are utilized in variable frequency drive applications Used in high-power applications like HVDC power transmission.
-
    
  4. Threats.
+ 
    * Not safe, when a short circuit occurs.
    * No inherent protection is available.
    * less reliable than current source inverter.
