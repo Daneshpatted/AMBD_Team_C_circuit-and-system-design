@@ -17,7 +17,7 @@
 |HLR05|It shall have a NOT gate|
 
 ## LOWER LEVEL REQUIREMENTS
-|LLR_ID|COMONENTS|DESCRITION|
+|LLR_ID|COMPONENTS|DESCRITION|
 |--|--|--|
 |LLR01|DC Voltage source|Converts the electrical energy|
 |LLR02|Battery|prevents current and voltage from over charging and discharging|
