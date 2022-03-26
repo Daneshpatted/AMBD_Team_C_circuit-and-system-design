@@ -5,11 +5,11 @@
 |99007688|Banothu Surendrakumar|PMSG Based on wind energy conversion system|
 
 ## PMSM Sensorless Control
-| Name | Sub-Project Title |
-|------|---------------|
-|KEERTHANA M G | Three Phase Inverter |
-|DANESH PATTED | Clark and Park Transformation |
-|GURUKIRAN | Calculation of Parameters |
+|Ps.number| Name | Sub-Project Title |
+|---------|------|---------------|
+|99007891|KEERTHANA M G | Three Phase Inverter |
+|99007458|DANESH PATTED | Clark and Park Transformation |
+|99007901|GURUKIRAN | Calculation of Parameters |
 
 
 ## STATE OF CHARGE CONTROLLER OF LITHIUM ION BATTERY
