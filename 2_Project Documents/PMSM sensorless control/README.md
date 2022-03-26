@@ -1,10 +1,10 @@
 # PMSM Sensorless control
-# Requirements
+# REQUIREMENTS
 
 ## Three phase inverter modelling
 
 High Level Requirements
-| ID | Description |
+| ID | Descriptions
 |----|-------------|
 |HLR_1|To convert direct dc voltage to three phase ac voltage|
 |HLR_2|To come up with the simulink model and thereby verify the result |
@@ -72,9 +72,10 @@ Low Level Requirements
 
 
  
- ## Equations 
+# EQUATIONS
  
-# INVERTER
+## INVERTER
+
 * Vao=Van+Vno
 * Vbo=Vbn+Vno
 * Vco=Vcn+Vno
@@ -82,18 +83,12 @@ Low Level Requirements
 * Vbn=Vdc/3(2Vbo-Vco-Vao)
 * Vcn=Vdc/3(2Vco-Vao-Vbo)
 
-# CLARK AND PARK TRANSFORMATION
+## CLARK AND PARK TRANSFORMATION
 ![Clark and park transform](https://user-images.githubusercontent.com/98873064/160111518-3b7fbe1b-1bcc-4ef4-8d00-5e8cb0dbeaf9.png)
 
-
-
-
- #  MOTOR MODELLING
+ ##  MOTOR MODELLING
  ![image](https://user-images.githubusercontent.com/98873064/160110148-a39cbb56-cc90-4d20-af6c-c23e220b5ac1.png)
 
- 
- 
- 
  
  # FLOWCHART
  
