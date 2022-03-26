@@ -27,26 +27,26 @@ voltage control and current control. The voltage controlled VSI uses the phase a
   
 ## Resources 
   IEEE papers/
-  
+--------------------------------------------------------  
 ##  5W's And 1H
 
   ## What  
-    * A voltage source inverter or VSI is a device that converts unidirectional voltage waveform into a bidirectional voltage waveform.
-    * It is a converter that converts its voltage from DC form to AC form. An ideal voltage source inverter keeps the voltage constant through-out the process.
+  * A voltage source inverter or VSI is a device that converts unidirectional voltage waveform into a bidirectional voltage waveform.
+  * It is a converter that converts its voltage from DC form to AC form. An ideal voltage source inverter keeps the voltage constant through-out the process.
    
   ## Where
-    * A three-phase square wave inverter is used in a UPS circuit and a low-cost solid-state frequency charger circuit.
+  * A three-phase square wave inverter is used in a UPS circuit and a low-cost solid-state frequency charger circuit.
     
   ## When 
-     * A three-phase square wave inverter is used in a UPS circuit and a low-cost solid-state frequency charger circuit.
+  * A three-phase square wave inverter is used in a UPS circuit and a low-cost solid-state frequency charger circuit.
   
   ## Who  
-     * in UPS, induction heating, HVDC transmission lines, adjustable speed ac drives, etc.  
-     * The power can be transmitted across the network with the help of three different currents which are out of phase with each other.
+  * in UPS, induction heating, HVDC transmission lines, adjustable speed ac drives, etc.  
+  * The power can be transmitted across the network with the help of three different currents which are out of phase with each other.
      
   ## How   
-     * A voltage source inverter or VSI is a device that converts unidirectional voltage waveform into a bidirectional voltage waveform,and it is a converter that    converts its voltage from DC form to AC form. An ideal voltage source inverter keeps the voltage constant through-out the process.
-     
+  * A voltage source inverter or VSI is a device that converts unidirectional voltage waveform into a bidirectional voltage waveform,and it is a converter that      converts its voltage from DC form to AC form. An ideal voltage source inverter keeps the voltage constant through-out the process.
+---------------------------------------------------------------     
 ## SWOT Analysis
 
 ![image](https://user-images.githubusercontent.com/98837660/160236574-85736a89-4332-4e59-8817-fe5f47badca0.png)
@@ -77,9 +77,11 @@ voltage control and current control. The voltage controlled VSI uses the phase a
    * Not safe, when a short circuit occurs.
    * No inherent protection is available.
    * less reliable than current source inverter.
-  
+ ------------------------------------------------------------------------- 
 ## Requirements 
+
  ##  High Level Requirements 
+ 
  1. The model shuld give the pole Voltages from the switching functions .
  2. The model should give the Phase voltage from Pole voltages using different functions.
  3. Getting the Three phase voltages and line voltages from the phase voltage and given function.
@@ -87,10 +89,12 @@ voltage control and current control. The voltage controlled VSI uses the phase a
  5. Building the model  by using the equations.
    
  ##  Low Level Requirements
+ 
  1. Getting Switching functions for the inputs of different frequncy and Aplitudes.
  2. finding the Dc link current from the Switching functions.
-
-
+ 3. comparing the pole and phase voltages.
+ 
+ ----------------------------------------------------------------------------------------
 ## Applications  
 
 1. Power conversion circuit can simplified into output and input variables.
