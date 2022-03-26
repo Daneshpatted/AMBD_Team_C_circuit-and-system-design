@@ -15,3 +15,9 @@
 |GURUKIRAN | Calculation of Parameters |
 
 
+## STATE OF CHARGE CONTROLLER OF LITHIUM ION BATTERY
+|PS Number|Name|Project Title|
+|--|--|--|
+|99007594|Sandhyavathi K|State of charge control of lithium ion battery|
+
+
