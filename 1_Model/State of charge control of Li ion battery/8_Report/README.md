@@ -50,9 +50,9 @@
 ![image](https://user-images.githubusercontent.com/99087988/160226486-eda77cf3-2337-4933-8ab3-57ec18848493.png)
 
 ## APLICATION 
-  Lithium ion batteries are Power bakups/UPS
-  Mobile,Laptops and other commonly used consumer electronic goods.
-  Electric mobily.
+  * Lithium ion batteries are Power bakups/UPS
+  * Mobile,Laptops and other commonly used consumer electronic goods.
+  * Electric mobily.
 
 
 
