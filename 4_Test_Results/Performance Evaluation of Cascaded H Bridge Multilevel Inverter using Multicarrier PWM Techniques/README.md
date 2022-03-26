@@ -14,7 +14,8 @@
 ## 3 Phase stator current
 ![stator currrent](https://user-images.githubusercontent.com/98802184/160235185-448545da-2527-4121-8c12-74c7942b6e8c.PNG)
 ## Phase voltages for 5 level inverter
-![5 level](https://user-ima![rotor](https://user-images.githubusercontent.com/98802184/160235260-4d07205f-b14e-401c-9298-a9d9dedd61a0.PNG)
+![5 level](https://user-images.githubusercontent.com/98802184/160244904-fbbbd50b-230a-40fc-9d15-54c2c2003975.PNG)
+
 
 ## Rotor Speed and Torque
 ![rotor](https://user-images.githubusercontent.com/98802184/160235294-817d78ac-4ddd-4e4b-9293-f6ae2097cbb2.PNG)
