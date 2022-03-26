@@ -26,7 +26,8 @@ Various multicarrier pulse width modulation (PWM) techniques suitable for high p
 | :--        | :--          |   :--     |
 | HLR1        | The model should control the inverter output voltage by using PWM technique   | Implemented |
 | HLR2        | The model should reduce the harmonics content in the output voltage |  Implemented|
-| HLR3        | The model should give the analysis of H bridge cascaded multilevel inverter fed induction motor (motor torque, speed and torque ripple) | Implemented |
+| HLR3        | The model should give the analysis of H bridge cascaded multilevel inverter fed induction motor (motor torque, speed and torque ripple) | Implemented 
+
 
 # Low Level Requirements
 | Id          |  Low Level Requirements  |    status  |
@@ -43,3 +44,6 @@ Various multicarrier pulse width modulation (PWM) techniques suitable for high p
 
 # Methodology
 ![methadilogy](https://user-images.githubusercontent.com/98802184/160236627-8d3b94ff-c7a9-4e1d-b629-c7a19f638b98.PNG)
+
+# Flow Chart
+|![flowcahrt](https://user-images.githubusercontent.com/98802184/160237513-fcf1bc6c-2ada-465f-b5b7-e4d37886984d.PNG)
