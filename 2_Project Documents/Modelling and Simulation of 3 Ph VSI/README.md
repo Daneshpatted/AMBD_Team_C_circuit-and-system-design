@@ -86,13 +86,14 @@ voltage control and current control. The voltage controlled VSI uses the phase a
  2. The model should give the Phase voltage from Pole voltages using different functions.
  3. Getting the Three phase voltages and line voltages from the phase voltage and given function.
  4. Getting the three phase current by feeding RL lode with an output frequency of 50 HZ.
- 5. Building the model  by using the equations.
+
    
  ##  Low Level Requirements
  
  1. Getting Switching functions for the inputs of different frequncy and Aplitudes.
  2. finding the Dc link current from the Switching functions.
  3. comparing the pole and phase voltages.
+ 4. Building the model  by using the equations.
  
  ----------------------------------------------------------------------------------------
 ## Applications  
