@@ -64,12 +64,30 @@ Low Level Requirements
  
  
  
- # SWOT ANALYSIS
- 
- 
- 
- 
+# SWOT ANALYSIS
  ![swot analysis](https://user-images.githubusercontent.com/98873064/160094517-04328b0e-fade-42ab-83be-143130addfd8.png)
+ 
+# 5W's & 1H
+
+## Where:
+While designing the Permanent Synchronous Motor.
+
+## Why:
+To reduce the cost of position sensor.
+
+## What:
+To sensor the position of rotor without using the sensor.
+
+## Who:
+Circuit design engineer.
+
+## When:
+When there is a need to reduce the cost of sensor. 
+
+## How:
+By transforming a,b,c to dq axis and thereby finding the parameters.
+
+ 
 
 
  
