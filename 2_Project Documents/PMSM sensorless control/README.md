@@ -121,6 +121,27 @@ By transforming a,b,c to dq axis and thereby finding the parameters.
  ------------
 
  
+ # Output
  
+ # VSI OUTPUT
+ 
+ ![VSI_Output](https://user-images.githubusercontent.com/98873064/160233486-3545ef90-df8a-4c9f-805e-057761bdf914.png)
+ 
+ 
+ # Id_Iq OUTPUT
+ 
+ ![id_iq_Output](https://user-images.githubusercontent.com/98873064/160233511-c6a06f26-8fae-454a-a63b-096b97a88758.png)
+
+
+# SPEED OUTPUT
+
+![Rotor_speed_output](https://user-images.githubusercontent.com/98873064/160233548-0e71d95c-3125-4089-9534-508558a9d71a.png)
+
+
+# Rotor position output
+
+![Rotor_speed_output](https://user-images.githubusercontent.com/98873064/160233564-6090681c-8439-4eb6-b494-4340ff9637b4.png)
+
+
  
  
