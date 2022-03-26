@@ -117,6 +117,8 @@ By transforming a,b,c to dq axis and thereby finding the parameters.
 
  ## Motor Modelling
  ![image](https://user-images.githubusercontent.com/98873064/160110148-a39cbb56-cc90-4d20-af6c-c23e220b5ac1.png)
+ 
+ ------------
 
  
  
