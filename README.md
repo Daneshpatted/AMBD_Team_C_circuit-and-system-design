@@ -21,3 +21,8 @@
 |99007594|Sandhyavathi K|State of charge control of lithium ion battery|
 
 
+## DC motor modelling and speed and torque control using voltage
+|NAME|PROJECT TITLE|
+|--|--|
+|AJAY BHAT|
+## DC motor modelling and speed and torque control by  voltage|
