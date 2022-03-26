@@ -26,17 +26,17 @@ Low Level Requirements
 High Level Requirements
 |ID|Description|
 |-----|------|
-|HLR_1|to move from stationary axis to rotational axis|
-|HLR_2|come up with equations required to build the model and building the equations model in simulink|
+|HLR_1|To move from stationary axis to rotational axis|
+|HLR_2|Come up with equations required to build the model and building the equations model in simulink|
 
 
 Low Level Requirements
 |ID|Description|
 |-----|-----|
-|LLR_1.1|to make use of clark transform to move from abc axis to alpha and theta axis|
-|LLR_1.2|to make use of park transform to move from alpha and theta axis to d-q axis|
-|LLR_2.1|makeing blocks use of basics blocks available to implement it|
-|LLR_2.2|analysing the output from the block|
+|LLR_1.1|To make use of clark transform to move from abc axis to alpha and theta axis|
+|LLR_1.2|To make use of park transform to move from alpha and theta axis to d-q axis|
+|LLR_2.1|Makeing blocks use of basics blocks available to implement it|
+|LLR_2.2|Analysing the output from the block|
 
 
 
