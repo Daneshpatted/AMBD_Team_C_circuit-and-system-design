@@ -12,4 +12,4 @@
 |------|---------------|
 |KEERTHANA M G | Three Phase Inverter |
 |DANESH PATTED | Clark and Park Transformation |
-|GURU KIRAN | Calculation of Paramenters |
+|GURUKIRAN | Calculation of Paramenters |
