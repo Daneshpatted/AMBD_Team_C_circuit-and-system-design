@@ -2,7 +2,7 @@
 ![model 2](https://user-images.githubusercontent.com/98802184/160235338-0e2df06b-398f-49a2-bdf6-31f67b749310.PNG)
 
 # Sub System
-## PWM Technique and Phase A of the inverter
+## Sinusoidal pulse width modulation technique
 ![sub_1](https://user-images.githubusercontent.com/98802184/160234753-955f3715-5de9-49d4-aeda-cd5b19a39930.PNG)
 ## PMSM motor and Phase volatages
 ![PMSM](https://user-images.githubusercontent.com/98802184/160234830-9fdfa471-7302-4b52-b848-e6e183f378e6.PNG)
