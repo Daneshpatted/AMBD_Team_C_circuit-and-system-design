@@ -50,6 +50,19 @@
 ## 𝑖𝑏 = 𝑉𝑏𝑠 /  √𝑅2 + (𝑤𝐿)2;
 ## 𝑖𝑐 = 𝑉𝑐𝑠 / √𝑅2 + (𝑤𝐿)2;
 
+## Comparing the Phase voltages and Line Voltages
+
+## Van vs Vab 
+
+![Van vs Vab](https://user-images.githubusercontent.com/98837660/160250502-5c3d8b66-ec97-4fb6-bc6a-22fba91bf185.png)
+
+## Vbn vs Vbc
+
+![vbn vs vbc](https://user-images.githubusercontent.com/98837660/160250492-ba861927-d617-45e0-8076-9c3d65519497.png)
+
+## Vcn vs Vca
+
+![Vcn vs Vca](https://user-images.githubusercontent.com/98837660/160250482-d800e67a-fb23-48ba-9f1b-e354422015bb.png)
 
 ##	Neutral voltage
   
