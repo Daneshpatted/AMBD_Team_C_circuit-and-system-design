@@ -119,3 +119,6 @@ By transforming a,b,c to dq axis and thereby finding the parameters.
  
  
  
+ # Block Diagram
+ ![Block_diagram](https://user-images.githubusercontent.com/98873064/160232275-b481eb84-29c3-42f9-951a-b9a1bbc7868f.png)
+
