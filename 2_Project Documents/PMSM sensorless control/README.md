@@ -26,17 +26,17 @@ Low Level Requirements
 High Level Requirements
 |ID|Description|
 |-----|------|
-|HLR_1|to move from stationary axis to rotational axis|
-|HLR_2|come up with equations required to build the model and building the equations model in simulink|
+|HLR_1|To move from stationary axis to rotational axis|
+|HLR_2|Come up with equations required to build the model and building the equations model in simulink|
 
 
 Low Level Requirements
 |ID|Description|
 |-----|-----|
-|LLR_1.1|to make use of clark transform to move from abc axis to alpha and bheta axis|
-|LLR_1.2|to make use of park transform to move from alpha and bheta axis to d-q axis|
-|LLR_2.1|makeing blocks use of basics blocks available to implement it|
-|LLR_2.2|analysing the output from the block|
+|LLR_1.1|To make use of clark transform to move from abc axis to alpha and theta axis|
+|LLR_1.2|To make use of park transform to move from alpha and theta axis to d-q axis|
+|LLR_2.1|Makeing blocks use of basics blocks available to implement it|
+|LLR_2.2|Analysing the output from the block|
 
 
 
@@ -62,10 +62,11 @@ Low Level Requirements
  
  ---------------------------------------------
  
- 
- 
 # SWOT ANALYSIS
  ![swot analysis](https://user-images.githubusercontent.com/98873064/160094517-04328b0e-fade-42ab-83be-143130addfd8.png)
+ 
+ --------------------
+ 
  
 # 5W's & 1H
 
@@ -87,10 +88,19 @@ When there is a need to reduce the cost of sensor.
 ## How:
 By transforming a,b,c to dq axis and thereby finding the parameters.
 
+-------------------------------
+
+ # Block Diagram
+ ![Block_diagram](https://user-images.githubusercontent.com/98873064/160232275-b481eb84-29c3-42f9-951a-b9a1bbc7868f.png)
  
+ --------------------------
 
 
+ # FLOWCHART
+ ![Flow-chart-of-implementing-FOC-forPMSM](https://user-images.githubusercontent.com/98882146/160226447-0f520a37-c15a-4e8b-92f9-e20a579dd457.jpg)
  
+----------------------
+
 # EQUATIONS
  
 ## Inverter
@@ -107,11 +117,10 @@ By transforming a,b,c to dq axis and thereby finding the parameters.
 
  ## Motor Modelling
  ![image](https://user-images.githubusercontent.com/98873064/160110148-a39cbb56-cc90-4d20-af6c-c23e220b5ac1.png)
+ 
+ ------------
 
  
- # FLOWCHART
- ![Flow-chart-of-implementing-FOC-forPMSM](https://user-images.githubusercontent.com/98882146/160226447-0f520a37-c15a-4e8b-92f9-e20a579dd457.jpg)
-
  
  
  
