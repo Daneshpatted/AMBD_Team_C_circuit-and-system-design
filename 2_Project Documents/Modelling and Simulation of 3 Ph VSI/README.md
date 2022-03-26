@@ -26,59 +26,76 @@ voltage control and current control. The voltage controlled VSI uses the phase a
   * When the supply is AC, then the DC input voltage is obtained by connecting the controlled rectifier between the AC supply and inverter shown in the figure             below.The capacitor C filter out the harmonics in DC link voltage.  
   
 ## Resources 
-
-  IEEE papers
+  IEEE papers/
+--------------------------------------------------------  
 ##  5W's And 1H
 
-  What  
-  Where  
-  When   
-  Who   
-  why   
-  How   
+  ## What  
+  * A voltage source inverter or VSI is a device that converts unidirectional voltage waveform into a bidirectional voltage waveform.
+  * It is a converter that converts its voltage from DC form to AC form. An ideal voltage source inverter keeps the voltage constant through-out the process.
+   
+  ## Where
+  * A three-phase square wave inverter is used in a UPS circuit and a low-cost solid-state frequency charger circuit.
+    
+  ## When 
+  * A three-phase square wave inverter is used in a UPS circuit and a low-cost solid-state frequency charger circuit.
+  
+  ## Who  
+  * in UPS, induction heating, HVDC transmission lines, adjustable speed ac drives, etc.  
+  * The power can be transmitted across the network with the help of three different currents which are out of phase with each other.
+     
+  ## How   
+  * A voltage source inverter or VSI is a device that converts unidirectional voltage waveform into a bidirectional voltage waveform,and it is a converter that      converts its voltage from DC form to AC form. An ideal voltage source inverter keeps the voltage constant through-out the process.
+---------------------------------------------------------------     
 ## SWOT Analysis
 
-  1.Strengths.
- 
-   * It convert a DC i/p into an AC output. It includes three arms which are usually delayed through 120° of an angle to produce a 3 phase AC supply.
-   * The power can be transmitted across the network with the help of three different currents which are out of phase with each other.
-   * More than one motors can be operated with a single voltage source inverter.
-   * Occupies less area,the output voltage is independent of the load that is used.
+![image](https://user-images.githubusercontent.com/98837660/160236574-85736a89-4332-4e59-8817-fe5f47badca0.png)
 
- 2.Weakness.
+  1. Strengths.
+ 
+   * It converts a DC i/p into an AC output. It includes three arms which are usually delayed through 120° of an angle to produce a 3 phase AC supply.
+   * The power can be transmitted across the network with the help of three different currents which are out of phase with each other.
+   * More than one motor can be operated with a single voltage source inverter.
+   * Occupies less area, the output voltage is independent of the load that is used.
+
+ 2. Weakness.
  
    * Less speed and the input power factor is less i,e 1s.
    * The low internal impedance of a DC source.
    * Short circuit protection is not possible.
    *	Low output impedance.
  
- 3.Opportunity.
+ 3. Opportunity.
  
    * These have enormous applications such as in UPS, induction heating, HVDC transmission lines, adjustable speed ac drives, etc. 
    * It performs the inverse operation of ac to dc converter.
-   * Uninterruptable power supply & in AC speed drivers.
+   * Uninterruptable power supply & AC speed drivers.
    * These inverters are utilized in variable frequency drive applications Used in high-power applications like HVDC power transmission.
-   * A three-phase square wave inverter is used in a UPS circuit and a low-cost solid-state frequency charger circuit.
    
- 4.Threats.
+ 4. Threats.
+ 
    * Not safe, when a short circuit occurs.
-   * No inherent protection is avilable.
+   * No inherent protection is available.
    * less reliable than current source inverter.
-   * 
-  
+ ------------------------------------------------------------------------- 
 ## Requirements 
+
  ##  High Level Requirements 
+ 
  1. The model shuld give the pole Voltages from the switching functions .
  2. The model should give the Phase voltage from Pole voltages using different functions.
  3. Getting the Three phase voltages and line voltages from the phase voltage and given function.
  4. Getting the three phase current by feeding RL lode with an output frequency of 50 HZ.
- 5. Building the model  by using the equations.
+
    
  ##  Low Level Requirements
+ 
  1. Getting Switching functions for the inputs of different frequncy and Aplitudes.
  2. finding the Dc link current from the Switching functions.
-
-
+ 3. comparing the pole and phase voltages.
+ 4. Building the model  by using the equations.
+ 
+ ----------------------------------------------------------------------------------------
 ## Applications  
 
 1. Power conversion circuit can simplified into output and input variables.

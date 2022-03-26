@@ -1,5 +1,11 @@
 # PMSM Sensorless control
 
+# Abstract
+The aim of this project is to find the rotor position speed and torque without the use of sensors. Initially taking optimum parameters into consideration and feeding these values in the inverter model that we have designed we obtain the line voltages. With the Clark and Park transformation we transform these values in d-q reference frame. Further rearranging the terms, we solve for currents flowing through the motor i.e., id and I-q currents.
+
+
+
+
 # REQUIREMENTS
 
 ## Three phase inverter modelling
@@ -117,8 +123,32 @@ By transforming a,b,c to dq axis and thereby finding the parameters.
 
  ## Motor Modelling
  ![image](https://user-images.githubusercontent.com/98873064/160110148-a39cbb56-cc90-4d20-af6c-c23e220b5ac1.png)
+ 
+ ------------
 
  
+ # Output
  
+ # VSI OUTPUT
+ 
+ ![VSI_Output](https://user-images.githubusercontent.com/98873064/160233486-3545ef90-df8a-4c9f-805e-057761bdf914.png)
+ 
+ 
+ # Id_Iq OUTPUT
+ 
+ ![id_iq_Output](https://user-images.githubusercontent.com/98873064/160233511-c6a06f26-8fae-454a-a63b-096b97a88758.png)
+
+
+# SPEED OUTPUT
+
+![Rotor_speed_output](https://user-images.githubusercontent.com/98873064/160233548-0e71d95c-3125-4089-9534-508558a9d71a.png)
+
+
+# Rotor position output
+
+![rotor_position_output](https://user-images.githubusercontent.com/98873064/160233646-fbdf8e25-34f1-4301-b07b-c437a7b9f35d.png)
+
+
+
  
  
