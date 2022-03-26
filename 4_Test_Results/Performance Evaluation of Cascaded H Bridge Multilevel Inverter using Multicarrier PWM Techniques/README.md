@@ -1,5 +1,6 @@
 # Simulink Modal
-![model 2](https://user-images.githubusercontent.com/98802184/160235338-0e2df06b-398f-49a2-bdf6-31f67b749310.PNG)
+![final_model](https://user-images.githubusercontent.com/98802184/160244793-610cefba-c303-479b-8e33-814ea9d6c26d.PNG)
+
 
 # Sub System
 ## Sinusoidal pulse width modulation technique
