@@ -101,8 +101,6 @@ voltage control and current control. The voltage controlled VSI uses the phase a
  ![-3-source-large](https://user-images.githubusercontent.com/98837660/160248663-3b6455d5-95c2-4efb-892a-24b6e79fc1d4.gif)
 
  
- 
- 
 ## Applications  
 
 1. Power conversion circuit can simplified into output and input variables.
