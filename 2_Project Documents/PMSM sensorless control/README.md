@@ -140,7 +140,8 @@ By transforming a,b,c to dq axis and thereby finding the parameters.
 
 # Rotor position output
 
-![Rotor_speed_output](https://user-images.githubusercontent.com/98873064/160233564-6090681c-8439-4eb6-b494-4340ff9637b4.png)
+![rotor_position_output](https://user-images.githubusercontent.com/98873064/160233646-fbdf8e25-34f1-4301-b07b-c437a7b9f35d.png)
+
 
 
  
