@@ -4,11 +4,6 @@
 |:----:|:---:|:-----|
 |99007688|Banothu Surendrakumar|PMSG Based on wind energy conversion system|
 
-## Charging and discharging of Li-ion battery
-|PS Number|Name|Project Title|
-|:----:|:---:|:-----|
-|99007457|C Shrivaishnavi|Charging and discharging of battery|
-
 ## PMSM Sensorless Control
 | Name | Project Title |
 |------|---------------|
@@ -27,3 +22,9 @@
 |NAME|PROJECT TITLE|
 |--|--|
 |AJAY BHAT| DC motor modelling and speed and torque control by  voltage|
+
+
+## Charging and discharging of Li-ion battery
+|Name|Project Title|
+|:---:|:-----|
+|C Shrivaishnavi|Charging and discharging of battery|
