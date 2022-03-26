@@ -42,26 +42,28 @@ voltage control and current control. The voltage controlled VSI uses the phase a
  
    * It convert a DC i/p into an AC output. It includes three arms which are usually delayed through 120° of an angle to produce a 3 phase AC supply.
    * The power can be transmitted across the network with the help of three different currents which are out of phase with each other.
-   * 
-   * 
+   * More than one motors can be operated with a single voltage source inverter.
+   * Occupies less area,the output voltage is independent of the load that is used.
 
  2.Weakness.
  
-   * 
-   * 
-   *
+   * Less speed and the input power factor is less i,e 1s.
+   * The low internal impedance of a DC source.
+   * Short circuit protection is not possible.
+   *	Low output impedance.
  
  3.Opportunity.
  
    * These have enormous applications such as in UPS, induction heating, HVDC transmission lines, adjustable speed ac drives, etc. 
    * It performs the inverse operation of ac to dc converter.
+   * Uninterruptable power supply & in AC speed drivers.
    * These inverters are utilized in variable frequency drive applications Used in high-power applications like HVDC power transmission.
    * A three-phase square wave inverter is used in a UPS circuit and a low-cost solid-state frequency charger circuit.
    
  4.Threats.
-   * 
-   * 
-   *
+   * Not safe, when a short circuit occurs.
+   * No inherent protection is avilable.
+   * less reliable than current source inverter.
    * 
   
 ## Requirements 
