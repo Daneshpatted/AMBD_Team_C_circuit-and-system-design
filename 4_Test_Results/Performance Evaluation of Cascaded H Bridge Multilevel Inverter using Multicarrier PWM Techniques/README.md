@@ -1,4 +1,4 @@
-# Simulink Modal
+# Simulink Model
 ![final_model](https://user-images.githubusercontent.com/98802184/160244793-610cefba-c303-479b-8e33-814ea9d6c26d.PNG)
 
 
