@@ -10,7 +10,7 @@ High Level Requirements
 |HLR_1|To convert direct dc voltage to three phase ac voltage|
 |HLR_2|To come up with the simulink model and thereby verify the result |
 
-Low Level Requirements 
+Low Level Requirement
 | ID | Description |
 |----|-------------|
 |LLR_1.1|To come up with the required circuit diagram|
