@@ -40,8 +40,8 @@ voltage control and current control. The voltage controlled VSI uses the phase a
 
   1.Strengths.
  
-   *  
-   * 
+   * It convert a DC i/p into an AC output. It includes three arms which are usually delayed through 120° of an angle to produce a 3 phase AC supply.
+   * The power can be transmitted across the network with the help of three different currents which are out of phase with each other.
    * 
    * 
 
@@ -53,10 +53,11 @@ voltage control and current control. The voltage controlled VSI uses the phase a
  
  3.Opportunity.
  
-   * 
-   *  
-   *
-  
+   * These have enormous applications such as in UPS, induction heating, HVDC transmission lines, adjustable speed ac drives, etc. 
+   * It performs the inverse operation of ac to dc converter.
+   * These inverters are utilized in variable frequency drive applications Used in high-power applications like HVDC power transmission.
+   * A three-phase square wave inverter is used in a UPS circuit and a low-cost solid-state frequency charger circuit.
+   
  4.Threats.
    * 
    * 
