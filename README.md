@@ -24,5 +24,4 @@
 ## DC motor modelling and speed and torque control using voltage
 |NAME|PROJECT TITLE|
 |--|--|
-|AJAY BHAT|
-## DC motor modelling and speed and torque control by  voltage|
+|AJAY BHAT| DC motor modelling and speed and torque control by  voltage|
