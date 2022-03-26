@@ -39,4 +39,12 @@
 # How
 * the LDR sensor contains a variable resistor whose resistance and the voltage changes according to the intensity of sunlight. the output voltage is converted into digital signal and sent as the input to the microcontroller
 # SWOT Analysis
-* 
+## Strengths
+* the LDR sensor converts the voltage across the resistor into digital signal
+## Weaknesses
+* if both the LDR sensors are placed in parallel with the photo-voltaic model than the effective irradiance is similar as a result the smart tracker is unable to perform the proposed sun tracking algorithm
+## Oppurtunities
+* The LDR sensor can be used in  smart photo- voltaic(PV) panel which is used to solve the proposed sun tracking algorithm
+## Threats
+* when LDR sensors are placed in parallel with each other than the smart tracker is unable to perform the proposed sun tracking algorithm thus jeopardizing the pv panel thus jeoparadizing the whole system
+
