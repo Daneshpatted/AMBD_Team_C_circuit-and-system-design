@@ -92,10 +92,14 @@ By transforming a,b,c to dq axis and thereby finding the parameters.
 
  # Block Diagram
  ![Block_diagram](https://user-images.githubusercontent.com/98873064/160232275-b481eb84-29c3-42f9-951a-b9a1bbc7868f.png)
+ 
+ --------------------------
 
 
  # FLOWCHART
  ![Flow-chart-of-implementing-FOC-forPMSM](https://user-images.githubusercontent.com/98882146/160226447-0f520a37-c15a-4e8b-92f9-e20a579dd457.jpg)
+ 
+----------------------
 
 # EQUATIONS
  
