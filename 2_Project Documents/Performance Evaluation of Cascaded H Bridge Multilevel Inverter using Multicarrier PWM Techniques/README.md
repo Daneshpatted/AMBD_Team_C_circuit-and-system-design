@@ -18,6 +18,9 @@ Various multicarrier pulse width modulation (PWM) techniques suitable for high p
 - THD analysis of inverter fed PMSM motor. 
 
 
+
+
+
 # High Level Requirments
 | Id          |  High Level Requirements  |    status  |
 | :--        | :--          |   :--     |
@@ -37,3 +40,6 @@ Various multicarrier pulse width modulation (PWM) techniques suitable for high p
 
 # 4W's and 1H
 ![4w 1h](https://user-images.githubusercontent.com/98802184/160179378-4f8021bd-d447-4104-a84a-00366398ad8c.PNG)
+
+# Methodology
+![methadilogy](https://user-images.githubusercontent.com/98802184/160236627-8d3b94ff-c7a9-4e1d-b629-c7a19f638b98.PNG)
