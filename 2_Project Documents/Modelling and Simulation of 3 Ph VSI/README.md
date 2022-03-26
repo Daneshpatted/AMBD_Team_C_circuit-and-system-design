@@ -38,10 +38,30 @@ voltage control and current control. The voltage controlled VSI uses the phase a
   How   
 ## SWOT Analysis
 
-  Strength    
-  Weakness   
-  Opportunities   
-  Threats  
+  1.Strengths.
+ 
+   *  
+   * 
+   * 
+   * 
+
+ 2.Weakness.
+ 
+   * 
+   * 
+   *
+ 
+ 3.Opportunity.
+ 
+   * 
+   *  
+   *
+  
+ 4.Threats.
+   * 
+   * 
+   *
+   * 
   
 ## Requirements 
  ##  High Level Requirements 
