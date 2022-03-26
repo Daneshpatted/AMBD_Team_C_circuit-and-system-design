@@ -92,9 +92,8 @@ Low Level Requirements
 
  
  # FLOWCHART
- 
- 
- 
+ ![Flow-chart-of-implementing-FOC-forPMSM](https://user-images.githubusercontent.com/98882146/160226447-0f520a37-c15a-4e8b-92f9-e20a579dd457.jpg)
+
  
  
  
