@@ -1,4 +1,3 @@
 # BASIC MODEL
 ## VERSION 1
 
-## VERSION 2
