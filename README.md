@@ -3,9 +3,11 @@
 |PS Number|Name|Project Title|
 |:----:|:---:|:-----|
 |99007688|Banothu Surendrakumar|PMSG Based on wind energy conversion system|
-|99007457|C Shrivaishnavi|Charging and discharging of battery|
-||||
 
+## Charging and discharging of Li-ion battery
+|PS Number|Name|Project Title|
+|:----:|:---:|:-----|
+|99007457|C Shrivaishnavi|Charging and discharging of battery|
 
 ## PMSM Sensorless Control
 | Name | Project Title |
