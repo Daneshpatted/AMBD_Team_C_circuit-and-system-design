@@ -62,10 +62,11 @@ Low Level Requirements
  
  ---------------------------------------------
  
- 
- 
 # SWOT ANALYSIS
  ![swot analysis](https://user-images.githubusercontent.com/98873064/160094517-04328b0e-fade-42ab-83be-143130addfd8.png)
+ 
+ --------------------
+ 
  
 # 5W's & 1H
 
@@ -87,10 +88,13 @@ When there is a need to reduce the cost of sensor.
 ## How:
 By transforming a,b,c to dq axis and thereby finding the parameters.
 
- 
+-------------------------------
+# BLOCK DIAGRAM
 
 
- 
+ # FLOWCHART
+ ![Flow-chart-of-implementing-FOC-forPMSM](https://user-images.githubusercontent.com/98882146/160226447-0f520a37-c15a-4e8b-92f9-e20a579dd457.jpg)
+
 # EQUATIONS
  
 ## Inverter
