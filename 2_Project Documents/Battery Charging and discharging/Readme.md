@@ -54,6 +54,12 @@ than the battery's open circuit voltage.The battery may overheat if the charging
 ![discharge](https://user-images.githubusercontent.com/98872514/160190970-91f4ae1f-3fb7-43a3-a829-307c39685bdb.jpeg)
 
 
+# Flowchart
+![project](https://user-images.githubusercontent.com/98872514/160225423-cc3e3729-df9c-437a-a7d6-44f682066e97.png)
+
+
+
+
 
 
  
