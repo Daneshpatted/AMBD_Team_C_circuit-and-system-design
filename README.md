@@ -28,3 +28,8 @@
 |Name|Project Title|
 |:---:|:-----|
 |C Shrivaishnavi|Charging and discharging of battery|
+
+## Performance Evaluation of Cascaded H Bridge Multilevel Inverter using Multicarrier PWM Techniques
+PS Number|Name|Project Title|
+|:---|:---:|:-----|
+|99007502|Akshay Kelagade|Performance Evaluation of Cascaded H Bridge Multilevel Inverter using Multicarrier PWM Techniques|
