@@ -1,0 +1,25 @@
+
+Version 1 dc motor
+
+* Version 1 is modelled using basic dc motor which is in website of the paramters given by them
+# Dc motor 
+* Modelled only for speed of the dc motor using some parameter
+![dc motor basic version1](https://user-images.githubusercontent.com/89115879/160168952-3e6ccfa3-8923-4da0-9d21-db5642e508b1.PNG)
+# Dc motor basic subsystem
+![dc motor subsystem](https://user-images.githubusercontent.com/89115879/160169092-9d853192-7e63-4b0b-82e2-3a2f03836121.PNG)
+# waveform
+![waveform](https://user-images.githubusercontent.com/89115879/160169131-d4200eb9-6a46-455d-9a68-2a2a29dfc0c6.PNG)
+
+
+# version 2
+# dc motor modelled with some parameters taken and control both speed torque
+* simulation of dc motor 
+
+![dc motor2](https://user-images.githubusercontent.com/89115879/160173366-20ff7490-2855-42aa-8fae-245f04cbb9bb.PNG)
+
+# Subsystem of dcmotor
+![dc motor22](https://user-images.githubusercontent.com/89115879/160173430-002ff4bc-5122-4725-82e7-1a84829d0de2.PNG)
+
+# Graph for speed and torque
+![speed](https://user-images.githubusercontent.com/89115879/160173901-77618374-1fcc-4904-a790-751a0e4254c6.PNG)
+![torque graph](https://user-images.githubusercontent.com/89115879/160173589-cd500d4f-674e-47c8-8d06-5f700eddcbfd.PNG)
