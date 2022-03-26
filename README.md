@@ -23,6 +23,11 @@
 |--|--|
 |AJAY BHAT| DC motor modelling and speed and torque control by  voltage|
 
+## Modelling and Simulation of 3 phase voltahge source inverter
+|Ps.number| Name | Project Title |
+|---------|------|---------------|
+|99007505 | Darshan Kolavi|Modelling and Simulation of 3 phase voltahge source inverter|
+
 
 ## Charging and discharging of Li-ion battery
 |Name|Project Title|

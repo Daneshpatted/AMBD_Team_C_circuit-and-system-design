@@ -71,9 +71,9 @@ voltage control and current control. The voltage controlled VSI uses the phase a
    * It performs the inverse operation of ac to dc converter.
    * Uninterruptable power supply & AC speed drivers.
    * These inverters are utilized in variable frequency drive applications Used in high-power applications like HVDC power transmission.
-
    
  4. Threats.
+ 
    * Not safe, when a short circuit occurs.
    * No inherent protection is available.
    * less reliable than current source inverter.
@@ -86,15 +86,21 @@ voltage control and current control. The voltage controlled VSI uses the phase a
  2. The model should give the Phase voltage from Pole voltages using different functions.
  3. Getting the Three phase voltages and line voltages from the phase voltage and given function.
  4. Getting the three phase current by feeding RL lode with an output frequency of 50 HZ.
- 5. Building the model  by using the equations.
+
    
  ##  Low Level Requirements
  
  1. Getting Switching functions for the inputs of different frequncy and Aplitudes.
  2. finding the Dc link current from the Switching functions.
  3. comparing the pole and phase voltages.
+ 4. Building the model  by using the equations.
  
  ----------------------------------------------------------------------------------------
+ ## circuit diagram of 3 Ph voltage source Inverter.
+ 
+ ![-3-source-large](https://user-images.githubusercontent.com/98837660/160248663-3b6455d5-95c2-4efb-892a-24b6e79fc1d4.gif)
+
+ 
 ## Applications  
 
 1. Power conversion circuit can simplified into output and input variables.
@@ -102,4 +108,10 @@ voltage control and current control. The voltage controlled VSI uses the phase a
 3. The strategy to implement gating pulses will become much simpler.
 4. Various parameters like current and voltage, load current can be calculated easily
 5. For a power conversion circuits there is no need of forming real power electronic models and state equations.
+
+
+Conclusion:
+*	Implemented mathematical model of 3-phase VSI with RL load.
+* The advantage of 180° conduction mode as compared to 120° conduction mode is the number of switches that remain on at any instant of time.
+*  For 180° conduction, it is 3 switches whereas, for 120° conduction, it is 2 switches.
 
