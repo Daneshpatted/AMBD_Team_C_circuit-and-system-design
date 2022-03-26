@@ -89,7 +89,9 @@ When there is a need to reduce the cost of sensor.
 By transforming a,b,c to dq axis and thereby finding the parameters.
 
 -------------------------------
-# BLOCK DIAGRAM
+
+ # Block Diagram
+ ![Block_diagram](https://user-images.githubusercontent.com/98873064/160232275-b481eb84-29c3-42f9-951a-b9a1bbc7868f.png)
 
 
  # FLOWCHART
@@ -113,12 +115,6 @@ By transforming a,b,c to dq axis and thereby finding the parameters.
  ![image](https://user-images.githubusercontent.com/98873064/160110148-a39cbb56-cc90-4d20-af6c-c23e220b5ac1.png)
 
  
- # FLOWCHART
- ![Flow-chart-of-implementing-FOC-forPMSM](https://user-images.githubusercontent.com/98882146/160226447-0f520a37-c15a-4e8b-92f9-e20a579dd457.jpg)
-
  
  
  
- # Block Diagram
- ![Block_diagram](https://user-images.githubusercontent.com/98873064/160232275-b481eb84-29c3-42f9-951a-b9a1bbc7868f.png)
-
