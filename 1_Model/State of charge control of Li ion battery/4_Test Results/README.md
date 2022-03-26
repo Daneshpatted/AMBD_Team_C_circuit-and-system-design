@@ -15,5 +15,8 @@
 |LL3|Ideal switch|One|Open|Implemented|Done|
 |LL4|Bus selector|State of Charge|Current source|Displayed|Done|
 
+## HARDWARE OUTPUT
+
+
 
 
